@@ -3,6 +3,7 @@
      <name>LMS Portal</name>
      <provider>LMS Portal UI</provider>
      <description>portal</description>
+     <installURL>https://servicing-portal.sit.questrade.com</installURL>
      <extensionpoint>
           <location>EXTENSION_MENU</location>
           <label>LMS Portal application</label>
