@@ -6,6 +6,6 @@
      <extensionpoint>
           <location>EXTENSION_MENU</location>
           <label>LMS Portal application</label>
-          <url>https://servicing-portal.sit.questrade.com</url>
+          <url>http://localhost:4200/home</url>
      </extensionpoint>
 </app>
