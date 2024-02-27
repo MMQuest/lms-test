@@ -1,0 +1,11 @@
+<app>
+     <id>5dxc712kj4bz6</id>
+     <name>LMS Portal</name>
+     <provider>LMS Portal UI</provider>
+     <description>portal</description>
+     <extensionpoint>
+          <location>REPORTING_VIEW</location>
+          <label>LMS Portal</label>
+          <url>https://servicing-portal.sit.questrade.com</url>
+     </extensionpoint>
+</app>
